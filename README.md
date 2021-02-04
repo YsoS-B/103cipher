@@ -1,5 +1,5 @@
 # 103cipher
-Chiffré et déchiffré un mesage avec la matrice d'une clé
+Chiffrement et déchiffrement d'un mesage avec la matrice d'une clé.
 
 # The Usage
 OPTION: 0 to cipher et 1 to decipher
